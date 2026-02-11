@@ -1,6 +1,6 @@
 # The Hotels Network (THN) Tag for Google Tag Manager
 
-This is a inofficial Google Tag Manager custom template that allows you to easily implement **The Hotels Network** scripts on your website without hardcoding HTML.
+This is a unofficial Google Tag Manager custom template that allows you to easily implement **The Hotels Network** scripts on your website without hardcoding HTML.
 
 It dynamically injects the `loader.js` script by providing your unique Partnership ID and optionally loads the `connect.js` script via a Site ID.
 
