@@ -4,7 +4,7 @@ This is a unofficial Google Tag Manager custom template that allows you to easil
 
 It dynamically injects the `loader.js` script by providing your unique Partnership ID and optionally loads the `connect.js` script via a Site ID.
 
-[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mindbreaker/templates/the-hotels-network-tag)
+[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-red)](https://tagmanager.google.com/gallery/#/owners/mindbreaker/templates/the-hotels-network-tag)
 
 ## Setup
 

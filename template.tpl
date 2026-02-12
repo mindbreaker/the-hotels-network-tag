@@ -16,10 +16,10 @@ ___INFO___
   "displayName": "The Hotels Network (THN)",
   "brand": {
     "id": "thn",
-    "displayName": "",
+    "displayName": "The Hotels Network",
     "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAABmJLR0QA/wD/AP+gvaeTAAAB8UlEQVQokZXQPYhVZxDG8d+8R1fX1dSJYCMGi7VZ7lkwhZBrIQkWIn5AiFsERMQiMaSMhakstDBECIt2MQksiiLYaqVI7ocsVsGEBS1EUGR3xZi9557XYo9mUZs88MLM8MzM/50Anc4+Ed9iKxbws7I847VyTvr9w+r6S6wT8VTO501OXk46ne9FXMIDi4sf4QJO6/X2vhnQ75+S87SUrpib244/RVzS7X6TRBxvtpzVbldGR39q8qMrCJbjiBkHDw4VxbmmfijhsZUaH3+OIUpw8+ZafIChiYlHoKq2N+5HodfbKeeruCPnEyYn/9Dt/ovV+EzOq0RcRyXnz6W0Tc4/4AV2J63WDVX1sZwvS2l8BUtgl4idb/KUPpVzIeIrS0ublWU/vE/LBCMWF0fBhg3/YElZrnnbmt474H9oFbh/f42FhV3qeouIERRg/frv3unodKawWsQ1Zfkk6XQmzM//LedfRRS4i9zY7zbvP0XMiZjCX3q9HaHbvYo9Iqa0WhflHHq9AYq3bjBUlsvE/f4n6vo27iVsAlV1C8zObmy+MK/dfqndfolnKMzOjoHhcNjwfJjwOyiKY3IOVbW/QZ1eAX4NDAZHzcwUIr5u6ueiOcwXIo6IGFPXlYhftFrTIuqGasxgcBIHMIKH+FFZ/vYKdum61yY3n1MAAAAASUVORK5CYII="
   },
-  "description": "Inofficial Hotels Network Tag. Loads the The Hotels Network Partner loader script with dynamic partnership ID and optionally the connect script with a site ID.",
+  "description": "Unofficial Hotels Network Tag. Loads the The Hotels Network Partner loader script with dynamic partnership ID and optionally the connect script with a site ID.",
   "categories": ["ADVERTISING"],
   "containerContexts": [
     "WEB"
