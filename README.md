@@ -4,11 +4,11 @@ This is a unofficial Google Tag Manager custom template that allows you to easil
 
 It dynamically injects the `loader.js` script by providing your unique Partnership ID and optionally loads the `connect.js` script via a Site ID.
 
-[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-unpublished-red)](https://tagmanager.google.com/gallery/#/owners/mindbreaker/templates/the-hotels-network-tag)
+[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mindbreaker/templates/the-hotels-network-tag)
 
 ## Setup
 
-1. In Google Tag Manager, go to **Templates** and import the template or install it from the Community Template Gallery.
+1. In Google Tag Manager, go to **Templates** and import the template or install it from the Community Template Gallery https://tagmanager.google.com/gallery/#/owners/mindbreaker/templates/the-hotels-network-tag.
 2. Create a new tag using the **The Hotels Network (THN)** template.
 3. Enter your **Partnership ID** (required).
 4. Enter your **Site ID** (optional) if you also need the `connect.js` script.
